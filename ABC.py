@@ -12,7 +12,7 @@ trial_limit = 100
 
 
 # Calculate f(x, y)
-# This function you can edit to find minimum cost
+# This function you can edit
 def given_function(x, y):
     return -1*math.floor(x*y)+x*x+y*y
 # ___________________________________________
